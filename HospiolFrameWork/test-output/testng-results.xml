@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-28T14:47:11 IST" name="Default suite" finished-at="2023-08-28T14:47:21 IST" duration-ms="10520">
+    <groups>
+    </groups>
+    <test started-at="2023-08-28T14:47:11 IST" name="Default test" finished-at="2023-08-28T14:47:21 IST" duration-ms="10520">
+      <class name="testClass.VerificationOfRadioLogy">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testClass.VerificationOfRadioLogy@67d48005]" started-at="2023-08-28T14:47:11 IST" name="launchBrowser" finished-at="2023-08-28T14:47:12 IST" duration-ms="1711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="LoginToApplication()[pri:0, instance:testClass.VerificationOfRadioLogy@67d48005]" started-at="2023-08-28T14:47:12 IST" name="LoginToApplication" finished-at="2023-08-28T14:47:18 IST" duration-ms="5651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToApplication -->
+        <test-method signature="ToVerifyRadioLogy()[pri:0, instance:testClass.VerificationOfRadioLogy@67d48005]" started-at="2023-08-28T14:47:18 IST" name="ToVerifyRadioLogy" finished-at="2023-08-28T14:47:21 IST" duration-ms="3116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToVerifyRadioLogy -->
+        <test-method is-config="true" signature="LogoutFromApplication()[pri:0, instance:testClass.VerificationOfRadioLogy@67d48005]" started-at="2023-08-28T14:47:21 IST" name="LogoutFromApplication" finished-at="2023-08-28T14:47:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutFromApplication -->
+        <test-method is-config="true" signature="ClosedBrowser()[pri:0, instance:testClass.VerificationOfRadioLogy@67d48005]" started-at="2023-08-28T14:47:21 IST" name="ClosedBrowser" finished-at="2023-08-28T14:47:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosedBrowser -->
+      </class> <!-- testClass.VerificationOfRadioLogy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
